@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,React JS**
 
-- 📝 I regularly write articles on [https://medium.com/@chamalkasandamali/technology-aids-the-tourism-industry-3d036cfcb25a](https://medium.com/@chamalkasandamali/technology-aids-the-tourism-industry-3d036cfcb25a)
+- 📝 I regularly write articles on (https://medium.com/@chamalkasandamali)
 
 - 📫 How to reach me **chamalkasandamali@gmail.com**
 
